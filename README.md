@@ -24,7 +24,7 @@ The attr method takes the value of the attribute from the first element and set 
 ```
 
 ## Event Handler
-Capabale of adding and removing event listener to each element
+Capable of adding and removing event listener to each element
 ```
   on(eventName, callback){
     this.array.forEach(el => {
