@@ -1,4 +1,6 @@
 # JQuerious
+![live link](https://bennyz811.github.io/JQuerious/)
+
 JQuerious is a JavaScript library that makes DOM manipulation, events handling and AJAX requests easier
 
 ## Instruction
