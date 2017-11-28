@@ -5,7 +5,7 @@ JQuerious is a JavaScript library that makes DOM manipulation, events handling a
 Download JQuerious library and include the webpack output in your source code.
 
 ## Demo
-![demo link](https://bennyz811.github.io/JQuerious/)
+![demo link](https://bennyz811.github.io/JQuerious/?)
 
 Included is a simple todo list application that can add todos and remove todos by clicking on the same todo item.
 To open demo, doanload or clone the JQuerious library and view the html locally.
