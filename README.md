@@ -1,4 +1,4 @@
-# JQuerious
+# jQuerious
 JQuerious is a JavaScript library that makes DOM manipulation, events handling and AJAX requests easier
 
 ## Instruction
