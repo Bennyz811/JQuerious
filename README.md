@@ -1,5 +1,5 @@
 # jQuerious
-JQuerious is a JavaScript library that makes DOM manipulation, events handling and AJAX requests easier
+jQuerious is a JavaScript library that makes DOM manipulation, events handling and AJAX requests easier
 
 ## Instruction
 Download JQuerious library and include the webpack output in your source code.
@@ -8,7 +8,7 @@ Download JQuerious library and include the webpack output in your source code.
 [demo link](https://bennyz811.github.io/JQuerious/?)
 
 Included is a simple todo list application that can add todos and remove todos by clicking on the same todo item.
-To open demo, doanload or clone the JQuerious library and view the html locally.
+To open demo, doanload or clone the jQuerious library and view the html locally.
 
 ## DOM Manipulation
 The attr method takes the value of the attribute from the first element and set it as the attribute for every second matched element
